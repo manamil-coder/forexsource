@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  src:	url('../fonts/Roboto-Regular.woff');
+  src:	url('../fonts/Roboto-Regular.woff') format('embedded-opentype'), 
+		url('../fonts/Roboto-Regular.woff') format('woff2'), 
+		url('../fonts/Roboto-Regular.woff') format('woff'), 
+		url('../fonts/Roboto-Regular.woff') format('truetype'); 
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src:	url('../fonts/Roboto-Bold.woff');
+  src:	url('../fonts/Roboto-Bold.woff') format('embedded-opentype'), 
+		url('../fonts/Roboto-Bold.woff') format('woff2'), 
+		url('../fonts/Roboto-Bold.woff') format('woff'), 
+		url('../fonts/Roboto-Bold.woff') format('truetype'); 
+}
+
+@font-face {
+  font-family: 'Righteous-Regular';
+  src:	url('../fonts/PatuaOne-Regular.ttf');
+  src:	url('../fonts/PatuaOne-Regular.ttf') format('embedded-opentype'), 
+		url('../fonts/PatuaOne-Regular.ttf') format('woff2'), 
+		url('../fonts/PatuaOne-Regular.ttf') format('woff'), 
+		url('../fonts/PatuaOne-Regular.ttf') format('truetype'); 
+}
+
