@@ -22,9 +22,7 @@
 @endsection
 @section('content')
     <div class="row pt-3" id="accordion">
-        <div class="col-6 mb-3">
-            <h5 class="font-weight-bold">Info. of </h5>
-        </div>
+        <div class="col-6 mb-3"> <h5 class="font-weight-bold">Info. of </h5> </div>
         <div class="col-md-12 user-info">
             <div class="card card-body bg-dark-2 border-radius-10">
                 <div class="row">
